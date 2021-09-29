@@ -87,6 +87,7 @@ p{
 
 
 }
+
 footer p{
     justify-content: center;
     display: flex;
@@ -98,4 +99,17 @@ footer p{
     color:white ;
     font-family: cursive;
 
+}
+.social-links{
+  display: block;
+  list-style: none;
+  font-size: 2rem;
+  text-align: center;
+ 
+}
+
+.list-item{
+  
+    display: inline;
+    padding: 0rem 0.8rem;
 }
